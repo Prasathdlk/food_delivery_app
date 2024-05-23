@@ -1,8 +1,14 @@
 {
   "expo": {
     "name": "my-app",
-    "slug": "my-app",
-    "version": "1.0.0"
+    "slug": "fooddeliveryapp",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "b8fc642d-36fd-4b66-8b58-0de3cf8ae255"
+      }
+    },
+    "owner": "prasathdlk"
   },
   "name": "my-app"
 }
